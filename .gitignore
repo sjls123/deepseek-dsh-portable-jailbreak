@@ -1,0 +1,4 @@
+.tok
+*.log
+samples/
+node_modules/
